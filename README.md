@@ -55,3 +55,6 @@ Developed as part of my **Codetech IT Solutions Internship**.
 #OUTPUT_IMAGE SCREENSHOTS
 
 ![Image](https://github.com/user-attachments/assets/ffe322c2-7aab-456c-a578-c965bb5bbbe9)
+
+![Image](https://github.com/user-attachments/assets/6d1c19e2-abac-490f-840e-1a73b0bf994e)
+
