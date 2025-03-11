@@ -51,3 +51,7 @@ python encryption_tool.py
 
 ## 📌 Credits
 Developed as part of my **Codetech IT Solutions Internship**.
+
+#OUTPUT_IMAGE SCREENSHOTS
+
+![Image](https://github.com/user-attachments/assets/ffe322c2-7aab-456c-a578-c965bb5bbbe9)
