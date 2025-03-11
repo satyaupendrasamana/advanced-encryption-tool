@@ -1,4 +1,18 @@
-# Advanced Encryption Tool
+### ADVANCED ENCRYPTION-TOOL
+
+*COMPANY -- CODETECH IT SOULUTIONS
+
+*NAME -- SATYA UPENDRA SAMANA
+
+*INTERN ID. --  CT04WX86
+
+*DOMAIN -- CYBERSECURITY & ETHICAL HACKING
+
+*DURATION -- 4WEEKS
+
+*MENTOR -- NEELA SANTOSH
+
+  ###Advanced Encryption Tool
 This Python-based tool encrypts and decrypts files using AES-256 encryption.
 
 ## 📋 Features
