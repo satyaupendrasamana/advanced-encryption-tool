@@ -15,12 +15,12 @@
   ###Advanced Encryption Tool
 This Python-based tool encrypts and decrypts files using AES-256 encryption.
 
-## 📋 Features
-✅ Encrypt any file securely  
-✅ Decrypt files using the correct encryption key  
-✅ Simple and easy-to-use interface  
+##  Features
+* Encrypt any file securely  
+* Decrypt files using the correct encryption key  *
+* Simple and easy-to-use interface  
 
-## 🚀 How to Use
+##  How to Use
 1. Run the Python script using the command:
 
 python encryption_tool.py
@@ -32,24 +32,24 @@ python encryption_tool.py
 
 3. Follow the on-screen instructions to enter file paths.
 
-## 🔧 Requirements
+##  Requirements
 - Python 3.x
 - `cryptography` library (Install using `pip install cryptography`)
 
-## ⚠️ Important Notes
+## ⚠ Important Notes
 - **Do not share your `encryption_key.key` file**. Losing it will make decryption impossible.
 - Store a backup of your encryption key securely.
 
-## 📝 Example Commands
+##  Example Commands
 - Encrypt a file:
 ➔ Select **Option 2** ➔ Enter file path (e.g., `sample.txt`)  
 
 - Decrypt a file:
 ➔ Select **Option 3** ➔ Enter file path (e.g., `sample.txt.encrypted`)
 
-## 🖥️ Folder Structure
+##  Folder Structure
 
-## 📌 Credits
+##  Credits
 Developed as part of my **Codetech IT Solutions Internship**.
 
 #OUTPUT_IMAGE SCREENSHOTS
