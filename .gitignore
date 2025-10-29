@@ -1,0 +1,28 @@
+# ------------------------------
+## Python & Encryption Project
+## Advanced Encryption Tool
+# ------------------------------
+
+# Ignore encryption keys and sensitive data files
+*.key
+*.enc
+*.encrypted
+*.decrypted
+*.txt
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore virtual environment folders
+.env/
+venv/
+
+# Ignore system and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
